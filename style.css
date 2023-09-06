@@ -6,4 +6,10 @@
   body{
     background-color: #707070;
   }
-  
+  #titulo{
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    background-color: aqua;
+  }
